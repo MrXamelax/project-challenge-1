@@ -1,0 +1,14 @@
+archetype Ball_8cae42249e7d26c4689af19fe55bd2f9
+  lod 0
+    WorldPosition 
+      value [compression "None"]
+
+archetype Cube_6205896415a6a2640b6e4489bce936a2
+  lod 0
+    WorldPosition 
+      value [compression "None"]
+    WorldOrientation 
+      value [bits "32"]
+    GenericScale 
+      value [compression "None"]
+
